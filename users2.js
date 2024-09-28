@@ -1,3 +1,6 @@
+// Hao Phong Le
+// N01605830
+
 const getUserPromise = new Promise((resolve, reject) => {
     let condition = true;
     if (condition) {

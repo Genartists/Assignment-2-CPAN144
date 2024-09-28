@@ -1,3 +1,6 @@
+// Hao Phong Le
+// N01605830
+
 export const getUser = () => {
     return fetch("http://dummyjson.com/users")
         .then(response => response.json())
